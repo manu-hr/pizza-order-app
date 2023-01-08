@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "custID": "101",
+      "name": "MANOJ KUMAR H R",
+      "custPasword": "12345678",
+      "email": "manu.hr1701@gmail.com",
+      "contact": "08277603447",
+      "address": "Milana house, Rangoli Halla Road\nNear SALEM CHURCH",
+      "id": 1
+    },
+    {
+      "custID": "102",
+      "name": "Manu",
+      "custPasword": "12345678",
+      "email": "manu.hr1701@gmail.com",
+      "contact": "08277603447",
+      "address": "Milana house, Rangoli Halla Road\nNear SALEM CHURCH",
+      "id": 2
+    }
+  ]
+}

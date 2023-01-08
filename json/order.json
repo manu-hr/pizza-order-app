@@ -1,0 +1,70 @@
+{
+  "order": [
+    {
+      "items": [
+        {
+          "category Name": "SampleName",
+          "item Name": "Sample ItemName",
+          "price": "100",
+          "quantity": "12",
+          "amount": "1200"
+        }
+      ],
+      "orderId": "Order123",
+      "customerName": "MANOJ KUMAR H R",
+      "emailId": "manu.hr1701@gmail.com",
+      "contact": "8277603447",
+      "orderDate": "2022-10-26",
+      "id": 1
+    },
+    {
+      "items": [
+        {
+          "category Name": "SampleName",
+          "item Name": "Sample ItemName",
+          "price": "100",
+          "quantity": "2",
+          "amount": "200"
+        },
+        {
+          "category Name": "SampleName2",
+          "item Name": "Sample ItemName",
+          "price": "12",
+          "quantity": "1",
+          "amount": "12"
+        }
+      ],
+      "orderId": "Order124",
+      "customerName": "MANOJ KUMAR H R",
+      "emailId": "manu.hr1701@gmail.com",
+      "contact": "8277603447",
+      "orderDate": "2022-10-26",
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "category Name": "Hi",
+          "item Name": "Hello",
+          "price": "120",
+          "quantity": "1",
+          "amount": "120"
+        },
+        {
+          "category Name": "SampleName",
+          "item Name": "Sample ItemName",
+          "price": "12",
+          "quantity": "3",
+          "amount": "36"
+        }
+      ],
+      "orderId": "Order123",
+      "customerName": "MANOJ KUMAR H R",
+      "emailId": "manu.hr1701@gmail.com",
+      "contact": "8277603447",
+      "orderDate": "2022-10-26",
+      "totalAmount": "156",
+      "id": 3
+    }
+  ]
+}

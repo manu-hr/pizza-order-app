@@ -1,0 +1,46 @@
+/* Write style sheet here */
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 70px;
+}
+#formHeading {
+    font-size: 1.6em;
+}
+
+input,textarea  {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #CCC;
+    color: #555;
+    width: 80%;
+}
+
+label {
+    font-weight: bold;
+
+}
+
+input:focus {
+    outline: none;    
+}
+
+.buttonCircle {border-radius: 50%;}
+
+#orderButton {
+    width: 100px !important;
+    background-color: navy;
+    border-radius: 4px;
+    border: 1px solid orange;
+    color: cyan;
+    padding: 5px;
+}
+
+.shadow {
+    box-shadow: 0px 2px 7px orange;
+
+}
+
+table {
+    width: 100%;
+}

@@ -1,0 +1,13 @@
+/* Write style sheet here */
+
+table {
+    width: 50%;
+    text-align: center;
+}
+tbody {
+    background-color: rgb(228,245,212);
+}
+
+th,td{
+    padding: 0.4em;
+}
